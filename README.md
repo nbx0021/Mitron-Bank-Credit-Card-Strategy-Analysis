@@ -47,20 +47,20 @@ The project uses two datasets:
 Below are some key visualizations generated using Python and Seaborn/Matplotlib:
 
 ### 1. Average Spend by Payment Type
-![Average Spend by Payment Type](screenshots/average_spend_payment_type.png)
+![Average Spend by Payment Type](https://github.com/user-attachments/assets/828201d0-097f-4a05-9c3b-2bc6ae52e083)
 
 ### 2. Total Spend by City
-![Total Spend by City](screenshots/total_spend_city.png)
+![Total Spending by City](https://github.com/user-attachments/assets/e0813324-eb43-4172-ba8d-0c2fe5ab9237)
 
 ### 3. Spend Distribution Across Age Groups
-![Spend Distribution by Age Group](screenshots/spend_age_group.png)
+![Total Spending by Age Group](https://github.com/user-attachments/assets/d2fbff5d-d2fe-461c-89ce-ad42740b5c28)
 
 ---
 
 ## **Project Tools**
-- **Data Analysis**: Python (Pandas, NumPy)
-- **Data Visualization**: Matplotlib, Seaborn
-- **Dashboard Creation**: Self-explanatory visualizations tailored for stakeholders
+- **Data Analysis**: MySql
+- **Data Visualization**: Python (Pandas, NumPy),Matplotlib, Seaborn
+
 
 ---
 
